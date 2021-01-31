@@ -21,6 +21,7 @@
     "eslint-plugin-promise": "4"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   }
 }
